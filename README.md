@@ -1,2 +1,2 @@
 # weather-app
-Run weather.py file
+Run weatherapp.py file
